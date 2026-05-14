@@ -3,11 +3,13 @@
 # dependencies
 node_modules/
 aarchives
+1zVdReactNative
 justfile
 todo*
 justfile
 .vscode
 .env
+todo.rs
 
 # Expo
 .expo/
