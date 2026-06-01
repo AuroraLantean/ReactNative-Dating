@@ -2,6 +2,28 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## TechStack
+
+Authentification by Neon BetterAuth/Clerk
+NativeWind & LiquidGlass
+Darkmode
+Neon PostgreSQL & Drizzle CRUD
+Zustand
+Shop page
+Admin dashboard to add products
+Customer cart, profile, orders, wishlist pages
+searching products & category
+Feedback by Sentry
+Camera, Photo Gallery, GoogleMaps, Push notifications, biometries
+Stripe
+Localization(languages)
+Form handling via
+
+## Neon Database
+
+Setup Neon BetterAuth in VSCode
+$ npx neonctl@latest init
+
 ## Get started
 
 1. Install dependencies
